@@ -1,6 +1,3 @@
-Student: Clarence Guerrero
-Class: Berkeley Full Stack Bootcamp
-
 URL to GIT - https://github.com/clarenceyg/FSBChomework1
 URL to WEB - https://clarenceyg.github.io/FSBChomework1/
 
