@@ -3,7 +3,7 @@ URL to GIT - https://github.com/clarenceyg/FSBChomework1
 URL to WEB - https://clarenceyg.github.io/FSBChomework1/
 
 Description of Project
-    Optimize-Cleanup-Refactor Code of Horiseon Social Solution Services, Inc. webpage to make it accessible. Several Success Criter
+   Optimize-Cleanup-Refactor Code of Horiseon Social Solution Services, Inc. webpage.
 
 Things done to improve the site
 1. added reset.css (good practice)- initialize as different browsers will have diff settings
