@@ -9,8 +9,10 @@ Things done to improve the site
 2. added alt attributes
 3. css reorganized to have it read in sequential order
 4. title page changed from Website to Horiseon Social Solution Services, Inc.
-5. remove unnecessary id's
-6. Class Content - created ".contentSettings1" class in style.css to combine similar properties of all id's under class "content"
-7. Class Content - created ".contentImgSettings" class in style.css to combine similar properties of all Images under class "content"
-8. Class Benefit - created class "benefitImgSettings" to combine similar properties of all Images under class "benefit"
-9. Class Benefit - created classes "benefitH3Settings" to combine similar properties of all headings under class "benefit"
+5. under class "content" - created class "contentSettings1" in "style.css" to consolidate similar properties for all id's under class "content". 
+6.  under class "content" - created class "contentImgSettings" in style.css to consolidate similar properties for all Images under class "content"
+7.  under class "benefit" - created class "benefitImgSettings" to consolidate similar properties for all Images under class "benefits"
+8.  under class "benefit" - created class "benefitH3Settings" to consolidate similar properties for all H3 headings under class "benefits"
+9.  under class "content" - created class "contentH2Settings" to consolidate similar properties for all H2 headings under class "content"
+10. under class "benefit" - created 3 id's
+11. under class "benefit" - created class "benefitSettings" to consolidate similar properties for the 3 id's
