@@ -16,3 +16,4 @@ Things done to improve the site
 9.  under class "content" - created class "contentH2Settings" to consolidate similar properties for all H2 headings under class "content"
 10. under class "benefit" - created 3 id's
 11. under class "benefit" - created class "benefitSettings" to consolidate similar properties for the 3 id's
+12. removed unnecessary </img> tag below Cost Management
