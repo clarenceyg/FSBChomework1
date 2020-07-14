@@ -10,5 +10,5 @@ Things done to improve the site
 3. css reorganized to have it read in sequential order
 4. title page changed from Website to Horiseon Social Solution Services, Inc.
 5. remove unnecessary id's
-6. created ".contentSettings1" class in style.css to combine similar properties of id's "search-engine-optimization", "online-reputation-management", and "social-media-marketing"
-7. 
+6. created ".contentSettings1" class in style.css to combine similar properties of all id's under class "content"
+7. created ".contentImgSettings" class in style.css to combine similar properties of all id's under class "content"
