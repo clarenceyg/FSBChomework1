@@ -2,13 +2,14 @@ Student: Clarence Guerrero
 
 Description of Project: Optimize-Cleanup-Refactor Code of Horiseon Social Solution Services, Inc. webpage.
 
-URL to GIT
-[link id]: https://github.com/clarenceyg/FSBChomework1
+URL to GIT - [url=https://github.com/clarenceyg/FSBChomework1]
 
-URL to WEB
-[link id]: https://clarenceyg.github.io/FSBChomework1/
+URL to WEB - [url=https://clarenceyg.github.io/FSBChomework1/]
 
-URL to Readme - 
+Screenshots
+[url=https://postimg.cc/680s9YRN][img]https://i.postimg.cc/680s9YRN/hw1-screenshot-1.png[/img][/url]
+
+[url=https://postimg.cc/XZHT5qQH][img]https://i.postimg.cc/XZHT5qQH/hw1-screenshot-2.png[/img][/url]
 
 Things done to improve the site
 1. added reset.css (good practice)- initialize as different browsers will have diff settings
