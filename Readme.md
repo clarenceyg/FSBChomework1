@@ -1,8 +1,14 @@
-URL to GIT - https://github.com/clarenceyg/FSBChomework1
-
-URL to WEB - https://clarenceyg.github.io/FSBChomework1/
+Student: Clarence Guerrero
 
 Description of Project: Optimize-Cleanup-Refactor Code of Horiseon Social Solution Services, Inc. webpage.
+
+URL to GIT
+[link id]: https://github.com/clarenceyg/FSBChomework1
+
+URL to WEB
+[link id]: https://clarenceyg.github.io/FSBChomework1/
+
+URL to Readme - 
 
 Things done to improve the site
 1. added reset.css (good practice)- initialize as different browsers will have diff settings
@@ -17,3 +23,5 @@ Things done to improve the site
 10. under class "benefit" - created 3 id's
 11. under class "benefit" - created class "benefitSettings" to consolidate similar properties for the 3 id's
 12. removed unnecessary </img> tag below Cost Management
+
+Screenshot
