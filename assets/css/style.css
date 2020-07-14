@@ -75,10 +75,6 @@ p {
     margin-left: 20px;
 }
 
-.search-engine-optimization {}
-.online-reputation-management {}
-.social-media-marketing {}
-
 .contentSettings1{
     margin-bottom: 20px;
     padding: 50px;
@@ -88,16 +84,7 @@ p {
     color: #ffffff;    
 }
 
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.contentImgSettings{
     max-height: 200px;
 }
 
